@@ -1,24 +1,29 @@
 ## 1. Komo te yamas?
 
-1
+1.
+```
 Yo me yamo William.
 Yo so inglez.
 Yo so de Ingletierra.
 Yo so de Newcastle.
+```
 
 2.
+```
 Me yamo William i so inglez.
 So de Ingletierra, de Newcastle.
 Bivo en Madrid.
 Avlo inglez, fransez, aleman i un poko de kasteyano.
+```
 
 3.
+```
 Me yamo William i so inglez.
 So de Ingletierra, de Newcastle, ama bivo en Madrid.
 Avlo tres linguas: inglez, fransez i aleman.
 Tambien avlo un poko de kasteyano.
 Estudio kasteyano en Espanya, en Madrid.
-
+```
 4.
 Me yamo William i so de Newcastle, en Ingletierra.
 Avlo inglez, fransez, aleman i un poko de kasteyano.
