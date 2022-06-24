@@ -37,9 +37,9 @@ En Ingletierra yo tambien estudio. En Ingletierra yo estudio en la universita.
 5.
 ```
 Me yamo William i so inglez.
-So de Newcastle, ama estudio en Londres.
+So de Newcastle, ama estudio en Londra.
 En Ingletierra yo so estudiante.
-Estudio en la Universita de Londres.
+Estudio en la Universita de Londra.
 Estudio istoria en la universita.
 Tambien estudio kasteyano.
 Estudio kasteyano en Espanya, en Madrid.
@@ -53,7 +53,7 @@ Avlo inglez muy bien deke so inglez.
 Tambien avlo aleman i fransez.
 Y un poko de kasteyano.
 Yo estudio kasteyano en Madrid.
-Estudio istoria en Londres i kasteyano en Madrid.
+Estudio istoria en Londra i kasteyano en Madrid.
 Tambien lavoro. Yo estudio i lavoro.
 So estudiante de istoria, ama tambien so garson.
 Lavoro en un bar.
@@ -72,18 +72,18 @@ Yo so ingles ama mi madres es franseza i mi padre es aleman.
 8.
 ```
 Me yamo William i so inglez de Newcastle.
-Estudio istoria en la Universita de Londres ama agora bivo en Espanya.
+Estudio istoria en la Universita de Londra ama agora bivo en Espanya.
 Bivo en Espanya, en Madrid deke estudi kasteyano.
 Estudio kasteyano en una eskola de kasteyano.
 En Ingletierra so estudiante de istori i tambie lavoro en un bar.
-So garson en un bar de Londres.
+So garson en un bar de Londra.
 Yo so inglez ama mi madre es franseza i mi padre aleman.
 ```
 
 9.
 ```
 Me yamo William i so de Ingletierra.
-So de Newcastle, estudio istoria en Londres ama agora bivo en Madrid.
+So de Newcastle, estudio istoria en Londra ama agora bivo en Madrid.
 Yo so djoven: tengo 20 anyos.
 No avlo kasteyano muy bien ama avlo inglez, fransez i aleman muy bien. Mi padre es aleman i mi madre es franseza.
 So de Ingletierra, ama agora bivo en Madrid deke estudio kasteyano en una eskola de kasteyano.
@@ -94,7 +94,7 @@ So de Ingletierra, ama agora bivo en Madrid deke estudio kasteyano en una eskola
 Me yamo William i so de Ingletierra, ama agora bivo en Madrid deke estudio kasteyano.
 Estudio kasteyano en una eskola de kasteyano.
 Mi profesora es de Salamanka.
-En Ingletierra yo estudio istoria en la Universita de Londres ama tambien lavoro.
+En Ingletierra yo estudio istoria en la Universita de Londra ama tambien lavoro.
 So garson en un bar.
 So muy dojven. Tengo 20 anyos.
 Mi madre es de Fransia i mi padre de Alemania.
@@ -128,7 +128,7 @@ Kuantos anyos tiene Laura? No se.
 
 12.
 ```
-En Londres yo estudio istoria en la Universita, ama agora bivo en Madrid deke estudio kasteyano.
+En Londra yo estudio istoria en la Universita, ama agora bivo en Madrid deke estudio kasteyano.
 La eskola ande estudio kasteyano se yama "Ke guay" i es una eskola chika ama muy bonita.
 
 Mi profesora de kasteyano tambien es bonita i avla inglez muy bien.
