@@ -334,16 +334,68 @@ La va la eskola en tren. Tadra (?) kuarenta i sinko puntos.
 Yo vo a la eskola a pie. Tadra diez puntos.
 Yo moro muy serka de la eskola. Laura mora muy leshos.
 
-Yo moro en un piso ke esta serka de la eskola.
+Yo moro en un apartamento ke esta serka de la eskola.
 Mi maale se yama...
 Komo se yama mi maale? Komo se yama el maale de Madrid ande moro? No se.
-Laura mora en un piso ke esta leshos de la eskola.
-Yo moro en un piso ke esta serka de las eskola kon tres haveres.
+Laura mora en un apartamento ke esta leshos de la eskola.
+Yo moro en un apartamento ke esta serka de las eskola kon tres haveres.
 ```
 
 
 ## 4. Ande moras?
+
+21.
+```
+Yo more en el sentro de Madrid.
+Moro en un maale viejo ke esta en el sentro de Madrid.
+Madrid esta en el sentro de Espanya i moro en un apartamento ke esta en el sentro de Madrid.
+
+Konkluzion: yo moro en el sentro de Espanya.
+```
+
+22.
+```
+Moro muy serke de la Puerta del Sol.
+La Puerta del Sol es una plasa.
+La Puerta del Sol esta en el sentro de Madrid.
+Tambien more serke de la Plaza Mayor.
+La Plaza Mayor es tambien una plasa.
+En Madrid ay munchas plasas.
+En el sentro de la Plaza Mayor ay un estatua muy grande.
+Es la estatua de un ombre ke va a kavayo.
+Ke es el ombre ke va a kavayo? No es.
+```
+
+23.
+```
+Munchas kayes en mi maale son antiguas i estrechas.
+Munchas kazas en mi maale son kurtas. Son kazas antiguas i kurtas.
+Ma tambien ay kayes grandes i modernas. La Gran Via es una kaye grande i moderna.
+En la Gran Via ay munchos sinemas i teatros.
+Yo no vo a sinema. Yo no vo a teatro.
+En Newcastle yo vo al sinema i tambien vo a teatro. Yo avlo ingles.
+En Madrid no vo al sinema ni vo al teatro.
+Yo no vo ni al sinema ni al teatro.
+Yo no avlo kasteyano.
+Yo no vo ni al sinema ni al teatro en Madrid deke no avlo kasteyano.
+Avlo un poko de kasteyano, ama no entiendo muncho.
+```
+
+24.
+```
+Yo no avlo kasteyano muy bien.
+Vo a klase tres dias a la semana.
+Entiendo a mi profesora. Mi profesora avla kasteyano muy bien.
+Yo entiendo a Laura (mi profesora) kuando avla kasteyano.
+Ma no entiendo la televizyon
+```
+
 ## 5. Deke estudias kasteyano?
+
+33.
+```
+```
+
 ## 6. Ke te plazer?
 ## 7. Puedesh repetir, por favor?
 ## 8. Ke dia es oy?
@@ -353,3 +405,18 @@ Yo moro en un piso ke esta serka de las eskola kon tres haveres.
 ## 12. Ke te pasa?
 ## 13. Ke azes el fin de semana?
 
+71.
+```
+Oy el sabado. Amanyana alhad. Oy no ay klase de kasteyano. Ni amanyana. Es el fin de semana. Para mi, el fin de semana empesa el viernes por la tadre i eskapa el alhad por la noche.
+
+En fin de semana no ay klase de kasteyano.
+...
+```
+
+
+75.
+```
+...
+
+Ke pais tan toaf!
+```
