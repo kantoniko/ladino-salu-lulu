@@ -12,14 +12,14 @@ Yo so de Newcastle.
 ```
 Me yamo William i so inglez.
 So de Ingletierra, de Newcastle.
-Bivo en Madrid.
+Moro en Madrid.
 Avlo inglez, fransez, aleman i un poko de kasteyano.
 ```
 
 3.
 ```
 Me yamo William i so inglez.
-So de Ingletierra, de Newcastle, ama bivo en Madrid.
+So de Ingletierra, de Newcastle, ama moro en Madrid.
 Avlo tres linguas: inglez, fransez i aleman.
 Tambien avlo un poko de kasteyano.
 Estudio kasteyano en Espanya, en Madrid.
@@ -49,7 +49,7 @@ Estudio kasteyano en Espanya, en Madrid.
 ```
 Me yamo William i so inglez.
 Avlo inglez muy bien. So inglez.
-Avlo inglez muy bien deke so inglez.
+Avlo inglez muy bien porke so inglez.
 Tambien avlo aleman i fransez.
 Y un poko de kasteyano.
 Yo estudio kasteyano en Madrid.
@@ -62,10 +62,10 @@ Lavoro en un bar.
 7.
 ```
 Me yamo William i avlo tres linguas: inglez, fransez i aleman.
-Avlo inglez muy bien deke so inglez. So de Newcastle.
+Avlo inglez muy bien porke so inglez. So de Newcastle.
 Tambien avlo fransez i aleman.
-Avlo fransez muy bien deke mi madre es franseza.
-Tambien avlo aleman muy bien deke mi padre es aleman.
+Avlo fransez muy bien porke mi madre es franseza.
+Tambien avlo aleman muy bien porke mi padre es aleman.
 Yo so ingles ama mi madres es franseza i mi padre es aleman.
 ```
 
@@ -73,7 +73,7 @@ Yo so ingles ama mi madres es franseza i mi padre es aleman.
 ```
 Me yamo William i so inglez de Newcastle.
 Estudio istoria en la Universita de Londra ama agora bivo en Espanya.
-Bivo en Espanya, en Madrid deke estudi kasteyano.
+Bivo en Espanya, en Madrid porke estudi kasteyano.
 Estudio kasteyano en una eskola de kasteyano.
 En Ingletierra so estudiante de istori i tambie lavoro en un bar.
 So garson en un bar de Londra.
@@ -86,12 +86,12 @@ Me yamo William i so de Ingletierra.
 So de Newcastle, estudio istoria en Londra ama agora bivo en Madrid.
 Yo so djoven: tengo 20 anyos.
 No avlo kasteyano muy bien ama avlo inglez, fransez i aleman muy bien. Mi padre es aleman i mi madre es franseza.
-So de Ingletierra, ama agora bivo en Madrid deke estudio kasteyano en una eskola de kasteyano.
+So de Ingletierra, ama agora bivo en Madrid porke estudio kasteyano en una eskola de kasteyano.
 ```
 
 10.
 ```
-Me yamo William i so de Ingletierra, ama agora bivo en Madrid deke estudio kasteyano.
+Me yamo William i so de Ingletierra, ama agora bivo en Madrid porke estudio kasteyano.
 Estudio kasteyano en una eskola de kasteyano.
 Mi profesora es de Salamanka.
 En Ingletierra yo estudio istoria en la Universita de Londra ama tambien lavoro.
@@ -109,10 +109,10 @@ Yo so djoven i mi profesora tambien djoven.
 11.
 ```
 Mi profesora de kasteyano se yama Laura y es de Salamanka, ama agora bive en Madrid.
-Bive en Madrid deke lavora en Madrid. Laura es profesora de kasteyano en una eskola de kasteyano.
+Bive en Madrid porke lavora en Madrid. Laura es profesora de kasteyano en una eskola de kasteyano.
 Yo tambien bivo en Madrid agora.
 Yo so inglez, ama agora bivo en Madrid, en Espanya.
-Yo bivo en Espanya deke estudio kasteyano.
+Yo bivo en Espanya porke estudio kasteyano.
 Yo so estudiente de kasteyano.
 Yo avlo inglez, fransez i aleman.
 Mi profesora tambien avla inglez muy bien, ama eya no es ingleza.
@@ -128,13 +128,13 @@ Kuantos anyos tiene Laura? No se.
 
 12.
 ```
-En Londra yo estudio istoria en la Universita, ama agora bivo en Madrid deke estudio kasteyano.
+En Londra yo estudio istoria en la Universita, ama agora bivo en Madrid porke estudio kasteyano.
 La eskola ande estudio kasteyano se yama "Ke guay" i es una eskola chika ama muy bonita.
 
 Mi profesora de kasteyano tambien es bonita i avla inglez muy bien.
-Yo avlo inglez muy bien deke so inglez, ama eya tambien avla ingles muy bien.
+Yo avlo inglez muy bien porke so inglez, ama eya tambien avla ingles muy bien.
 Laura estudia ingles en la Universita.
-Laura avla inglez muy bien deke estudia inglez en la universita.
+Laura avla inglez muy bien porke estudia inglez en la universita.
 
 Si, Laura es profesora de kasteyano y estudiante de inglez.
 Laura es muy intelijente. Laura es intelijente i bonita.
@@ -177,8 +177,8 @@ Mi profesora de kasteyano tiene novio? No se.
 ```
 Mi profesora de kasteyano se yama Laura.
 Laura es de Salamanka, ama avla inglez muy bien.
-Laura avla inglez muy bien deke estudia inglez en la Universita.
-Yo avlo inglez muy bien deke so inglez.
+Laura avla inglez muy bien porke estudia inglez en la Universita.
+Yo avlo inglez muy bien porke so inglez.
 Yo bivo en Madrid, ama mi famiya bive en Newcastle.
 
 Mi ermana se yama Sara, esta kasada i tiene dos ijos chikos.
@@ -190,7 +190,7 @@ Phillips tiene solo dos anyos i Bella tiene solo sesh mezes.
 
 El marido de mi ermana se yama Martin i no avla kasteyano.
 Sol avla inglez ama avla inglez muy bien.
-Es normal: Martin avla inglez muy bien deke es inglez.
+Es normal: Martin avla inglez muy bien porke es inglez.
 
 Mi ermano se yama Robert i tiene 23 anyos.
 Robert ni estudia ni lavora.
@@ -225,7 +225,7 @@ Solo ay tres profesores de kasteyano: Pedro, Miguel i Laura.
 Laura es mi profesora de kasteyano.
 Laura es intelijente, yakishikli i avla inglez muy bien.
 Estudi inglez en la Universita.
-Laura avla inglez muy bien deke estudia inglez en la universita.
+Laura avla inglez muy bien porke estudia inglez en la universita.
 
 Mi klase de kasteyano tambien es chika.
 En mi klase de kasteyano solo ay 5 estudiantes:
@@ -233,7 +233,7 @@ En mi klase de kasteyano solo ay 5 estudiantes:
 Yoko, ke es una chika japonesa, de Tokio, i tiene 20 anyos, komo yo.
 Yoko es alta, morena, tiene el pelo largo i no avla muncho.
 Yoko es un poko timida ama simpatika i muy amable.
-Yoko avla japonez muy bien deke es japoneza.
+Yoko avla japonez muy bien porke es japoneza.
 Tambien avla inglez i un poko de fransez.
 Yoko tiene novio?
 No se.
@@ -243,20 +243,20 @@ Marie tiene 32 anyos komo mi ermana.
 Es un poko vieja.
 Marie es un poko grave.
 Marie es un poko vieja i grave.
-Avla muy bien fransez deke es farnseza i en Fransia la djente avlan fransez muy bien.
+Avla muy bien fransez porke es farnseza i en Fransia la djente avlan fransez muy bien.
 Marie esta kasada?
 Marie tiene novio?
 No se.
 
 Rosita, ke es una senyora austriaka, de Viena.
 Rosita es supervieja: tiene mas de 50 anyos, kreo.
-Avla aleman muy bien deke es de Austria i en Austria la gente avlan aleman muy bien.
+Avla aleman muy bien porke es de Austria i en Austria la gente avlan aleman muy bien.
 Rosita es muy dulse, simpatika, divertiente i intelijente.
 Mi avuela, la madre de mi madre, tambien es asi: dulse, simpatika, divertiente, intelijente i vieja.
 
 Edoardo, ke es un chiko italiano, de Roma.
 Edoardo es djoven (tiene 21 anyos), alto, blondo i muy yakishikli, komo mi ermano.
-Edoardo avla muy bien italiano (deke es italiano) i kasteyano (deke es italiano i todos los italianos avlan kasteyano muy bien).
+Edoardo avla muy bien italiano (porke es italiano) i kasteyano (porke es italiano i todos los italianos avlan kasteyano muy bien).
 Edoardo tambien es intelijente, elegante i muy divertiente.
 No me plazer Edoardo.
 Me aborro a Edoardo. (yo odio)
@@ -377,7 +377,7 @@ En Newcastle yo vo al sinema i tambien vo a teatro. Yo avlo ingles.
 En Madrid no vo al sinema ni vo al teatro.
 Yo no vo ni al sinema ni al teatro.
 Yo no avlo kasteyano.
-Yo no vo ni al sinema ni al teatro en Madrid deke no avlo kasteyano.
+Yo no vo ni al sinema ni al teatro en Madrid porke no avlo kasteyano.
 Avlo un poko de kasteyano, ama no entiendo muncho.
 ```
 
