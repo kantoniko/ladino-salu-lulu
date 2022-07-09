@@ -55,7 +55,7 @@ Y un poko de kasteyano.
 Yo estudio kasteyano en Madrid.
 Estudio istoria en Londra i kasteyano en Madrid.
 Tambien lavoro. Yo estudio i lavoro.
-So estudiante de istoria, ama tambien so garson.
+So estudiante de istoria, ama tambien so kamarero.
 Lavoro en un bar.
 ```
 
@@ -66,17 +66,17 @@ Avlo inglez muy bien porke so inglez. So de Newcastle.
 Tambien avlo fransez i aleman.
 Avlo fransez muy bien porke mi madre es franseza.
 Tambien avlo aleman muy bien porke mi padre es aleman.
-Yo so ingles ama mi madres es franseza i mi padre es aleman.
+Yo so inglez ama mi madres es franseza i mi padre es aleman.
 ```
 
 8.
 ```
 Me yamo William i so inglez de Newcastle.
-Estudio istoria en la Universita de Londra ama agora bivo en Espanya.
-Bivo en Espanya, en Madrid porke estudi kasteyano.
+Estudio istoria en la Universita de Londra ama agora moro en Espanya.
+Moro en Espanya, en Madrid porke estudi kasteyano.
 Estudio kasteyano en una eskola de kasteyano.
-En Ingletierra so estudiante de istori i tambie lavoro en un bar.
-So garson en un bar de Londra.
+En Ingletierra so estudiante de istoria i tambie lavoro en un bar.
+So kamarero en un bar de Londra.
 Yo so inglez ama mi madre es franseza i mi padre aleman.
 ```
 
@@ -86,33 +86,33 @@ Me yamo William i so de Ingletierra.
 So de Newcastle, estudio istoria en Londra ama agora bivo en Madrid.
 Yo so djoven: tengo 20 anyos.
 No avlo kasteyano muy bien ama avlo inglez, fransez i aleman muy bien. Mi padre es aleman i mi madre es franseza.
-So de Ingletierra, ama agora bivo en Madrid porke estudio kasteyano en una eskola de kasteyano.
+So de Ingletierra, ama agora moro en Madrid porke estudio kasteyano en una eskola de kasteyano.
 ```
 
 10.
 ```
-Me yamo William i so de Ingletierra, ama agora bivo en Madrid porke estudio kasteyano.
+Me yamo William i so de Ingletierra, ama agora moro en Madrid porke estudio kasteyano.
 Estudio kasteyano en una eskola de kasteyano.
 Mi profesora es de Salamanka.
 En Ingletierra yo estudio istoria en la Universita de Londra ama tambien lavoro.
-So garson en un bar.
-So muy dojven. Tengo 20 anyos.
+So kamarero en un bar.
+So muy djoven. Tengo 20 anyos.
 Mi madre es de Fransia i mi padre de Alemania.
 Yo avlo tres idiomas muy bien: inglez, aleman i fransez.
 Tambien estudio kasteyano. Estudio kasteyano kon una profesora de kasteyano.
 Mi profesora de kasteyano es de Salamanka. Se yama Laura.
-Yo so djoven i mi profesora tambien djoven.
+Yo so djoven i mi profesora tambien es djoven.
 ```
 
 ## 2. Komo se yama?
 
 11.
 ```
-Mi profesora de kasteyano se yama Laura y es de Salamanka, ama agora bive en Madrid.
-Bive en Madrid porke lavora en Madrid. Laura es profesora de kasteyano en una eskola de kasteyano.
-Yo tambien bivo en Madrid agora.
-Yo so inglez, ama agora bivo en Madrid, en Espanya.
-Yo bivo en Espanya porke estudio kasteyano.
+Mi profesora de kasteyano se yama Laura y es de Salamanka, ama agora mora en Madrid.
+Mora en Madrid porke lavora en Madrid. Laura es profesora de kasteyano en una eskola de kasteyano.
+Yo tambien moro en Madrid agora.
+Yo so inglez, ama agora moro en Madrid, en Espanya.
+Yo moro en Espanya porke estudio kasteyano.
 Yo so estudiente de kasteyano.
 Yo avlo inglez, fransez i aleman.
 Mi profesora tambien avla inglez muy bien, ama eya no es ingleza.
@@ -128,7 +128,7 @@ Kuantos anyos tiene Laura? No se.
 
 12.
 ```
-En Londra yo estudio istoria en la Universita, ama agora bivo en Madrid porke estudio kasteyano.
+En Londra yo estudio istoria en la Universita, ama agora moro en Madrid porke estudio kasteyano.
 La eskola ande estudio kasteyano se yama "Ke guay" i es una eskola chika ama muy bonita.
 
 Mi profesora de kasteyano tambien es bonita i avla inglez muy bien.
@@ -150,10 +150,10 @@ Mi ermano dize ke yo so feo.
 Mi ermano se yama Robert. Robert es alto, delgado i tiene los ojos azules komo mi madre.
 Mi madres tambien es alta, delgada i tiene los ojos azules.
 
-Mi madre es muy yakishikli i mi ermano tambien es muy yakishikli.
-Mi madres i mi ermano son yakishiklis.
+Mi madre es muy yakishklia i mi ermano tambien es muy yakishikli.
+Mi madre i mi ermano son yakishiklis.
 
-Mi padres es feo i yo tambien so feo. Mi padre i yo somos muy feos.
+Mi padre es feo i yo tambien so feo. Mi padre i yo somos muy feos.
 Mi ermano se yama Robert i es muy djoven. Tiene 23 anyos.
 ```
 
@@ -161,13 +161,13 @@ Mi ermano se yama Robert i es muy djoven. Tiene 23 anyos.
 ```
 Yo tengo dos ermanos: un ermano i una ermana.
 Mi ermano se yama Robert. Robert tiene 23 anyos i es muy yakishikli.
-Mi ermana se yama Sara. Sara tiene 32 anyos i tambien es muy yakishikli.
+Mi ermana se yama Sara. Sara tiene 32 anyos i tambien es muy yakishklia.
 Mi ermano i mi ermana son muy yakishiklis ama yo so feo.
-Mi ermana esta kasada i tiene dos ijos chikos.
+Mi ermana esta kazada i tiene dos ijos chikos.
 Mi ermano esta soltero ama tiene novia.
-Mi ermano es alto, delgado i tiene los ojos azules, komo mi madres.
-Mi ermana es alta, delgada i tiene los ojos azules, komo mi madre, ama tiene mustacho mi padre!
-No es verdad! Es una shaka! Mi ermana es muy yakishikli.
+Mi ermano es alto, delgado i tiene los ojos azules, komo mi madre.
+Mi ermana es alta, delgada i tiene los ojos azules, komo mi madre, ama tiene mustacho komo mi padre!
+No es verdad! Es una shaka! Mi ermana es muy yakishklia.
 
 Yo esto soltero i no tengo novia.
 Mi profesora de kasteyano tiene novio? No se.
@@ -179,13 +179,13 @@ Mi profesora de kasteyano se yama Laura.
 Laura es de Salamanka, ama avla inglez muy bien.
 Laura avla inglez muy bien porke estudia inglez en la Universita.
 Yo avlo inglez muy bien porke so inglez.
-Yo bivo en Madrid, ama mi famiya bive en Newcastle.
+Yo bivo en Madrid, ama mi famiya mora en Newcastle.
 
-Mi ermana se yama Sara, esta kasada i tiene dos ijos chikos.
+Mi ermana se yama Sara, esta kazada i tiene dos ijos chikos.
 Su marido es avokato i lavora en un banko.
 Mi ermana es enfermera i lavora en un ospital.
 
-Mis dos suvrinos son muy chikos.
+Mis dos sovrinos son muy chikos.
 Phillips tiene solo dos anyos i Bella tiene solo sesh mezes.
 
 El marido de mi ermana se yama Martin i no avla kasteyano.
