@@ -1,9 +1,13 @@
 publish: 2
 titulo: Hola Lola
 path: hola-lola
+teksto: |
+  Hola Lola es un livro por elevos prinsipientes de Ladino (Djudeo-Espanyol) ke tienen un nivle A1 en los niveles de <a href="https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages">CEFR</a>.
+  Juan Fernandez el patron de <a href="https://1001reasonstolearnspanish.com/">1001 razones pare ambezarse kasteyano</a> eskrivo la version orijinal de este livro en kasteyano. Puedesh merkar lo aki: <a href="https://1001reasonstolearnspanish.com/book/hola-lola/">Hola Lola</a>.
+  La traduksion al ladino es de Gabor Szabo kon muncha ayuda de Miriam Sherman.
 footer: |
- Este livro es una traduksion djudeo-espanyola del livro orijinal de <a href="https://1001reasonstolearnspanish.com/book/hola-lola/">Hola Lola</a> de <a href="https://1001reasonstolearnspanish.com/">Juan Fernandez</a>.
- Reservados todos los derechos.
+  Este livro es una traduksion djudeo-espanyola del livro orijinal de <a href="https://1001reasonstolearnspanish.com/book/hola-lola/">Hola Lola</a> de <a href="https://1001reasonstolearnspanish.com/">Juan Fernandez</a>.
+  Reservados todos los derechos.
 
 chapters:
  - titulo: 1. Komo te yamas?
