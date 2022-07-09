@@ -189,16 +189,16 @@ Mis dos sovrinos son muy chikos.
 Phillips tiene solo dos anyos i Bella tiene solo sesh mezes.
 
 El marido de mi ermana se yama Martin i no avla kasteyano.
-Sol avla inglez ama avla inglez muy bien.
+Solo avla inglez ama avla inglez muy bien.
 Es normal: Martin avla inglez muy bien porke es inglez.
 
 Mi ermano se yama Robert i tiene 23 anyos.
 Robert ni estudia ni lavora.
-Mi padre dize ke Robert es muy paresozo.
+Mi padre dize ke Robert es muy peresozo.
 Mi madre dize ke Robert es muy yakishikli.
-Yo kreo ke mi ermano es muy yakishikli, ama tambien muy paresozo.
+Kreo ke mi ermano es muy yakishikli, ama tambien muy peresozo.
 
-Robert no esta kasado, ama tiene novia.
+Robert no esta kazado, ama tiene novia.
 Tiene munchas novias.
 Este anyo su novia se yama Serena i tambien es ingleza, de Newcastle.
 Serena dize ke mi ermano Robert es muy yakishikli ama ke yo so muy feo.
@@ -207,7 +207,7 @@ Serena no es simpatika.
 La novia de mi ermano tiene una ermana ke se yama Anna.
 Anna es muy djoven: tiene 19 anyos.
 Anna tambien dize ke Robert es muy yakishikli ama ke yo so muy feo.
-Serene no es simpatika i su ermana tambien (fue tampoco en kasteyano).
+Serena no es simpatika i su ermana tambien no es simpatika.
 Ni Anna ni su ermana Serena son muy simpatikas.
 ```
 
@@ -223,43 +223,43 @@ La eskola ande estudio kasteyano es chika.
 Solo ay tres profesores de kasteyano: Pedro, Miguel i Laura.
 
 Laura es mi profesora de kasteyano.
-Laura es intelijente, yakishikli i avla inglez muy bien.
-Estudi inglez en la Universita.
+Laura es intelijente, yakishklia i avla inglez muy bien.
+Estudii inglez en la Universita.
 Laura avla inglez muy bien porke estudia inglez en la universita.
 
-Mi klase de kasteyano tambien es chika.
-En mi klase de kasteyano solo ay 5 estudiantes:
+Mi klasa de kasteyano tambien es chika.
+En mi klasa de kasteyano solo ay 5 estudiantes:
 
-Yoko, ke es una chika japonesa, de Tokio, i tiene 20 anyos, komo yo.
-Yoko es alta, morena, tiene el pelo largo i no avla muncho.
+Yoko, ke es una manseva japonesa, de Tokio, i tiene 20 anyos, komo yo.
+Yoko es alta, morena, tiene kaveyos largos i no avla muncho.
 Yoko es un poko timida ama simpatika i muy amable.
 Yoko avla japonez muy bien porke es japoneza.
 Tambien avla inglez i un poko de fransez.
 Yoko tiene novio?
 No se.
 
-Marie, ke es una chika franseza, de Burdeos.
+Marie, ke es una manseva franseza, de Burdeos.
 Marie tiene 32 anyos komo mi ermana.
 Es un poko vieja.
-Marie es un poko grave.
-Marie es un poko vieja i grave.
+Marie es un poko seria.
+Marie es un poko vieja i seria.
 Avla muy bien fransez porke es farnseza i en Fransia la djente avlan fransez muy bien.
-Marie esta kasada?
+Marie esta kazada?
 Marie tiene novio?
 No se.
 
 Rosita, ke es una senyora austriaka, de Viena.
-Rosita es supervieja: tiene mas de 50 anyos, kreo.
+Rosita es muy aedada: tiene mas de 50 anyos, kreo.
 Avla aleman muy bien porke es de Austria i en Austria la gente avlan aleman muy bien.
 Rosita es muy dulse, simpatika, divertiente i intelijente.
-Mi avuela, la madre de mi madre, tambien es asi: dulse, simpatika, divertiente, intelijente i vieja.
+Mi avuela, la madre de mi madre, tambien es asi: dulse, simpatika, divertiente, intelijente i aedada.
 
-Edoardo, ke es un chiko italiano, de Roma.
+Edoardo, ke es un mansevo italiano, de Roma.
 Edoardo es djoven (tiene 21 anyos), alto, blondo i muy yakishikli, komo mi ermano.
 Edoardo avla muy bien italiano (porke es italiano) i kasteyano (porke es italiano i todos los italianos avlan kasteyano muy bien).
 Edoardo tambien es intelijente, elegante i muy divertiente.
-No me plazer Edoardo.
-Me aborro a Edoardo. (yo odio)
+No me plaze Edoardo.
+Me aborresko a Edoardo.
 
 Yo me yamo William i so inglez, de Newcastle.
 So un poko feo i timido, ama djoven i divertiente.
@@ -270,7 +270,7 @@ Esto soltero i no tengo novia.
 
 17.
 ```
-Yo vo a klase de kasteyano los lines, los martes, los martes i los mierkoles.
+Yo vo a klasa de kasteyano los lunes, los martes i los mierkoles.
 Los djueves o los viernes vo a la biblioteka para estudiar.
 En la eskola de kasteyano ay una biblioteka chika.
 La eskola de kasteyano es chika i la biblioteka tambien es chika.
@@ -282,30 +282,30 @@ Los livros son sikidjis.
 Los livros ke ay en la biblioteka de kasteyano son viejos i sikidjis, komo mis padres.
 Mis padres tambien son viejos i sikidjis.
 
-La klase de kasteyano empiesa a las mueve (9) i termina a las dodje (12).
+La klasa de kasteyano empiesa a las mueve (9) i termina a las dodje (12).
 ```
 
 18.
 ```
-La klase de kasteyano es de mueve a dodje: tres oras.
+La klasa de kasteyano es de mueve a dodje: tres oras.
 Estudio kasteyano tres oras los lunes o los mierkoles.
-La klase de kasteyano es a las mueve de la manyana.
-Normalmente yo yego a klase a las mueve manko sinko de la manyana.
+La klasa de kasteyano es a las mueve de la manyana.
+Normalmente yo yego a klasa a las mueve manko sinko de la manyana.
 Yo so inglez.
 
-Yoko tambien yega a klase a las mueve manko sinko.
-Yoko es japonesa. Yega temprano yoko deke es japonesa? No se.
+Yoko tambien yega a la klasa a las mueve manko sinko.
+Yoko es japonesa. Yega temprano Yoko porke es japonesa? No se.
 
-Rosita siempre yega a klase a las mueve menos diez.
+Rosita siempre yega a la klasa a las mueve menos diez.
 Muy temprano.
-Rosita es austrika.
-Yega temprano Rosita deke es austrika?
+Rosita es austriaka.
+Yega temprano Rosita deke es austriaka?
 No se.
 
-Edoardo yega a klase a las mueve i kuarto o las mueve i veinte.
+Edoardo yega a la klasa a las mueve i kuarto o las mueve i veinte.
 Muy tadre.
 Edoardo es italiano.
-Yega tadre Edoardo deke es italiano?
+Yega tadre Edoardo porke es italiano?
 No se.
 
 I Laura? A ke ora yega Laura?
@@ -317,28 +317,28 @@ Laura es espanyola...
 
 19.
 ```
-Problema: Laura, la profesora de kasteyano, a menudo yega tadre a klase.
+Problema: Laura, la profesora de kasteyano, akorruto yega tadre a klasa.
 Eya es profesora de kasteyano!
 Laura no puede yegar tadre!
-No puedesh yegar tadre a klase de kasteyano kuando to sosh la profesora de kasteyano, no?
+No puedes yegar tadre a klasa de kasteyano kuando to sos la profesora de kasteyano, no?
 
-Deke yega tadre a klase Laura? No se.
-Laura yega tadre a klase deke es espanyola? No se.
-Laura yega tadre a klase deke es paresoza? No se.
-Laura yega tadre a klase deke bive muy leshos de la eskola? No se.
+Deke yega tadre a klasa Laura? No se.
+Laura yega tadre a klasa porke es espanyola? No se.
+Laura yega tadre a klasa porke es paresoza? No se.
+Laura yega tadre a klasa porke mora muy leshos de la eskola? No se.
 ```
 
 20.
 ```
-La va la eskola en tren. Tadra (?) kuarenta i sinko puntos.
-Yo vo a la eskola a pie. Tadra diez puntos.
+Eya va a la eskola en tren. Toma kuarenta i sinko puntos.
+Yo vo a la eskola a pie. Toma diez puntos.
 Yo moro muy serka de la eskola. Laura mora muy leshos.
 
 Yo moro en un apartamento ke esta serka de la eskola.
 Mi maale se yama...
 Komo se yama mi maale? Komo se yama el maale de Madrid ande moro? No se.
 Laura mora en un apartamento ke esta leshos de la eskola.
-Yo moro en un apartamento ke esta serka de las eskola kon tres haveres.
+Yo moro en un apartamento ke esta serka de las eskola kon tres amigos.
 ```
 
 
@@ -346,7 +346,7 @@ Yo moro en un apartamento ke esta serka de las eskola kon tres haveres.
 
 21.
 ```
-Yo more en el sentro de Madrid.
+Yo moro en el sentro de Madrid.
 Moro en un maale viejo ke esta en el sentro de Madrid.
 Madrid esta en el sentro de Espanya i moro en un apartamento ke esta en el sentro de Madrid.
 
@@ -355,25 +355,25 @@ Konkluzion: yo moro en el sentro de Espanya.
 
 22.
 ```
-Moro muy serke de la Puerta del Sol.
+Moro muy serka de la Puerta del Sol.
 La Puerta del Sol es una plasa.
 La Puerta del Sol esta en el sentro de Madrid.
-Tambien more serke de la Plaza Mayor.
+Tambien moro serka de la Plaza Mayor.
 La Plaza Mayor es tambien una plasa.
 En Madrid ay munchas plasas.
 En el sentro de la Plaza Mayor ay un estatua muy grande.
 Es la estatua de un ombre ke va a kavayo.
-Ke es el ombre ke va a kavayo? No es.
+Ken es el ombre ke va a kavayo? No se.
 ```
 
 23.
 ```
-Munchas kayes en mi maale son antiguas i estrechas.
-Munchas kazas en mi maale son kurtas. Son kazas antiguas i kurtas.
+Munchas kayes en mi maale son antikas i estrechas.
+Munchas kazas en mi maale son bashas. Son kazas antikas i bashas.
 Ma tambien ay kayes grandes i modernas. La Gran Via es una kaye grande i moderna.
-En la Gran Via ay munchos sinemas i teatros.
-Yo no vo a sinema. Yo no vo a teatro.
-En Newcastle yo vo al sinema i tambien vo a teatro. Yo avlo ingles.
+En la Gran Vía ay munchos sinemas i teatros.
+Yo no vo al sinema. Yo no vo al teatro.
+En Newcastle yo vo al sinema i tambien vo al teatro. Yo avlo ingles.
 En Madrid no vo al sinema ni vo al teatro.
 Yo no vo ni al sinema ni al teatro.
 Yo no avlo kasteyano.
@@ -384,7 +384,7 @@ Avlo un poko de kasteyano, ama no entiendo muncho.
 24.
 ```
 Yo no avlo kasteyano muy bien.
-Vo a klase tres dias a la semana.
+Vo a klasa tres dias a la semana.
 Entiendo a mi profesora. Mi profesora avla kasteyano muy bien.
 Yo entiendo a Laura (mi profesora) kuando avla kasteyano.
 Ma no entiendo la televizyon
@@ -396,8 +396,8 @@ Ma no entiendo la televizyon
 ```
 ```
 
-## 6. Ke te plazer?
-## 7. Puedesh repetir, por favor?
+## 6. Ke te plaze?
+## 7. Puedes repetir, por favor?
 ## 8. Ke dia es oy?
 ## 9. A ke ora?
 ## 10. Ken es?
@@ -407,9 +407,14 @@ Ma no entiendo la televizyon
 
 71.
 ```
-Oy el sabado. Amanyana alhad. Oy no ay klase de kasteyano. Ni amanyana. Es el fin de semana. Para mi, el fin de semana empesa el viernes por la tadre i eskapa el alhad por la noche.
+Oy es sabado.
+Amanyana es alhad.
+Oy no ay klasa de kasteyano.
+Ni amanyana.
+Es fin de semana.
+Para mi, el fin de la semana empesa el viernes por la tadre i eskapa alhad por la noche.
 
-En fin de semana no ay klase de kasteyano.
+En fin de semana no ay klasa de kasteyano.
 ...
 ```
 
