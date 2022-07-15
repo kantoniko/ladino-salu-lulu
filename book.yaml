@@ -362,3 +362,28 @@ chapters:
           Yo entiendo a Laura (mi profesora) kuando avla kasteyano.
           Ma no entiendo la televizyon
 
+ - titulo: 5. Deke estudias kasteyano?
+ - titulo: 6. Ke te plaze?
+ - titulo: 7. Puedes repetir, por favor?
+ - titulo: 8. Ke dia es oy?
+ - titulo: 9. A ke ora?
+ - titulo: 10. Ken es?
+ - titulo: 11. Hola, Lola?
+ - titulo: 12. Ke te pasa?
+ - titulo: 13. Ke azes el fin de semana?
+   pajinas:
+      - numero: 71
+        teksto: |
+          Oy es sabado.
+          Amanyana es alhad.
+          Oy no ay klasa de kasteyano.
+          Ni amanyana.
+          Es fin de semana.
+          Para mi, el fin de la semana empesa el viernes por la tadre i eskapa alhad por la noche.
+
+          En fin de semana no ay klasa de kasteyano.
+          ...
+
+      - numero: 75
+        teksto: |
+          Ke pais tan toaf!
