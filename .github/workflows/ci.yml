@@ -5,9 +5,25 @@ on:
   workflow_dispatch:
 
 jobs:
+  test:
+    runs-on: ubuntu-latest
+    name: Test code
+    steps:
+    - name: Checkout this repo
+      uses: actions/checkout@v2
+
+    - name: Install dependencies
+      run: |
+          pip install -r requirements.txt
+
+    - name: Run tests
+      run: |
+          python ladino/books.py
+
   generate:
     runs-on: ubuntu-latest
     name: Generate HTML
+    needs: [test]
 
     steps:
     - name: Generate HTML
