@@ -18,12 +18,14 @@ chapters:
           Yo so inglez.
           Yo so de Ingletierra.
           Yo so de Newcastle.
+
       - numero: 2
         teksto: |
           Me yamo William i so inglez.
           So de Ingletierra, de Newcastle.
           Moro en Madrid.
           Avlo inglez, fransez, aleman i un poko de kasteyano.
+
       - numero: 3
         teksto: |
           Me yamo William i so inglez.
@@ -31,6 +33,7 @@ chapters:
           Avlo tres linguas: inglez, fransez i aleman.
           Tambien avlo un poko de kasteyano.
           Estudio kasteyano en Espanya, en Madrid.
+
       - numero: 4
         teksto: |
           Me yamo William i so de Newcastle, en Ingletierra.
@@ -38,6 +41,7 @@ chapters:
           Yo no so espanyol. Yo so inglez, ama moro en Espanya, en Madrid.
           Estudio kasteyano en Espanya, en Madrid.
           En Ingletierra yo tambien estudio. En Ingletierra yo estudio en la universita.
+
       - numero: 5.
         teksto: |
           Me yamo William i so inglez.
@@ -47,6 +51,7 @@ chapters:
           Estudio istoria en la universita.
           Tambien estudio kasteyano.
           Estudio kasteyano en Espanya, en Madrid.
+
       - numero: 6.
         teksto: |
           Me yamo William i so inglez.
@@ -59,6 +64,7 @@ chapters:
           Tambien lavoro. Yo estudio i lavoro.
           So estudiante de istoria, ama tambien so kamarero.
           Lavoro en un bar.
+
       - numero: 7
         teksto: |
           Me yamo William i avlo tres linguas: inglez, fransez i aleman.
@@ -66,23 +72,29 @@ chapters:
           Tambien avlo fransez i aleman.
           Avlo fransez muy bien porke mi madre es franseza.
           Tambien avlo aleman muy bien porke mi padre es aleman.
-          Yo so inglez ama mi madres es franseza i mi padre es aleman.
+          Yo so inglez ama mi madre es franseza i mi padre es aleman.
+
       - numero: 8
         teksto: |
           Me yamo William i so inglez de Newcastle.
           Estudio istoria en la Universita de Londra ama agora moro en Espanya.
           Moro en Espanya, en Madrid porke estudi kasteyano.
           Estudio kasteyano en una eskola de kasteyano.
-          En Ingletierra so estudiante de istoria i tambie lavoro en un bar.
+          En Ingletierra so estudiante de istoria i tambien lavoro en un bar.
           So kamarero en un bar de Londra.
-          Yo so inglez ama mi madre es franseza i mi padre aleman.
+          Yo so inglez, ama mi madre es franseza i mi padre aleman.
+
       - numero: 9
         teksto: |
           Me yamo William i so de Ingletierra.
-          So de Newcastle, estudio istoria en Londra ama agora bivo en Madrid.
+          So de Newcastle, estudio istoria en Londra ama agora moro en Madrid.
           Yo so djoven: tengo 20 anyos.
           No avlo kasteyano muy bien ama avlo inglez, fransez i aleman muy bien. Mi padre es aleman i mi madre es franseza.
           So de Ingletierra, ama agora moro en Madrid porke estudio kasteyano en una eskola de kasteyano.
+          Es una eskola chika.
+          Mi profesora de kasteyano es espanyola. Eya es de Salamanka, ama agora mora en Madrid.
+          Mi profesora se yama Laura.
+
       - numero: 10
         teksto: |
           Me yamo William i so de Ingletierra, ama agora moro en Madrid porke estudio kasteyano.
@@ -96,6 +108,7 @@ chapters:
           Tambien estudio kasteyano. Estudio kasteyano kon una profesora de kasteyano.
           Mi profesora de kasteyano es de Salamanka. Se yama Laura.
           Yo so djoven i mi profesora tambien es djoven.
+
  - titulo: ## 2. Komo se yama?
    pajinas:
       - numero: 11
