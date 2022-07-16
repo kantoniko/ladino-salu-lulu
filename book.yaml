@@ -3,7 +3,7 @@ titulo: Salú Lulú
 path: salu-lulu
 teksto: |
   Salú Lulú es un livro para empesantes (elevos prinsipientes) de Ladino (Djudeo-Espanyol) ke tienen un nivel A1 en los niveles de <a href="https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages">CEFR</a>.
-  Juan Fernandez el patron de <a href="https://1001reasonstolearnspanish.com/">1001 razones pare ambezarse kasteyano</a> eskrivo la version orijinal de este livro en kasteyano. Puedesh merkar lo aki: <a href="https://1001reasonstolearnspanish.com/book/hola-lola/">Hola Lola</a>.
+  Juan Fernandez el patron de <a href="https://1001reasonstolearnspanish.com/">1001 razones pare ambezarse kastilyano</a> eskrivo la version orijinal de este livro en kasteyano. Puedesh merkar lo aki: <a href="https://1001reasonstolearnspanish.com/book/hola-lola/">Hola Lola</a>.
   La traduksion al ladino es de Gabor Szabo kon muncha ayuda de Miriam Sherman.
 footer: |
   Este livro es una traduksion djudeo-espanyola del livro orijinal de <a href="https://1001reasonstolearnspanish.com/book/hola-lola/">Hola Lola</a> de <a href="https://1001reasonstolearnspanish.com/">Juan Fernandez</a>.
@@ -24,22 +24,22 @@ chapters:
           Me yamo William i so inglez.
           So de Ingletierra, de Newcastle.
           Moro en Madrid.
-          Avlo inglez, fransez, aleman i un poko de kasteyano.
+          Avlo inglez, fransez, aleman i un poko de kastilyano.
 
       - numero: 3
         teksto: |
           Me yamo William i so inglez.
           So de Ingletierra, de Newcastle, ama moro en Madrid.
           Avlo tres linguas: inglez, fransez i aleman.
-          Tambien avlo un poko de kasteyano.
-          Estudio kasteyano en Espanya, en Madrid.
+          Tambien avlo un poko de kastilyano.
+          Estudio kastilyano en Espanya, en Madrid.
 
       - numero: 4
         teksto: |
           Me yamo William i so de Newcastle, en Ingletierra.
-          Avlo inglez, fransez, aleman i un poko de kasteyano.
+          Avlo inglez, fransez, aleman i un poko de kastilyano.
           Yo no so espanyol. Yo so inglez, ama moro en Espanya, en Madrid.
-          Estudio kasteyano en Espanya, en Madrid.
+          Estudio kastilyano en Espanya, en Madrid.
           En Ingletierra yo tambien estudio. En Ingletierra yo estudio en la universita.
 
       - numero: 5.
@@ -49,8 +49,8 @@ chapters:
           En Ingletierra yo so estudiante.
           Estudio en la Universita de Londra.
           Estudio istoria en la universita.
-          Tambien estudio kasteyano.
-          Estudio kasteyano en Espanya, en Madrid.
+          Tambien estudio kastilyano.
+          Estudio kastilyano en Espanya, en Madrid.
 
       - numero: 6.
         teksto: |
@@ -58,9 +58,9 @@ chapters:
           Avlo inglez muy bien. So inglez.
           Avlo inglez muy bien porke so inglez.
           Tambien avlo aleman i fransez.
-          I un poko de kasteyano.
-          Yo estudio kasteyano en Madrid.
-          Estudio istoria en Londra i kasteyano en Madrid.
+          I un poko de kastilyano.
+          Yo estudio kastilyano en Madrid.
+          Estudio istoria en Londra i kastilyano en Madrid.
           Tambien lavoro. Yo estudio i lavoro.
           So estudiante de istoria, ama tambien so kamarero.
           Lavoro en un bar.
@@ -78,8 +78,8 @@ chapters:
         teksto: |
           Me yamo William i so inglez de Newcastle.
           Estudio istoria en la Universita de Londra ama agora moro en Espanya.
-          Moro en Espanya, en Madrid porke estudi kasteyano.
-          Estudio kasteyano en una eskola de kasteyano.
+          Moro en Espanya, en Madrid porke estudi kastilyano.
+          Estudio kastilyano en una eskola de kasteyano.
           En Ingletierra so estudiante de istoria i tambien lavoro en un bar.
           So kamarero en un bar de Londra.
           Yo so inglez, ama mi madre es franseza i mi padre aleman.
@@ -89,36 +89,36 @@ chapters:
           Me yamo William i so de Ingletierra.
           So de Newcastle, estudio istoria en Londra ama agora moro en Madrid.
           Yo so djoven: tengo 20 anyos.
-          No avlo kasteyano muy bien ama avlo inglez, fransez i aleman muy bien. Mi padre es aleman i mi madre es franseza.
-          So de Ingletierra, ama agora moro en Madrid porke estudio kasteyano en una eskola de kasteyano.
+          No avlo kastilyano muy bien ama avlo inglez, fransez i aleman muy bien. Mi padre es aleman i mi madre es franseza.
+          So de Ingletierra, ama agora moro en Madrid porke estudio kastilyano en una eskola de kasteyano.
           Es una eskola chika.
-          Mi profesora de kasteyano es espanyola. Eya es de Salamanka, ama agora mora en Madrid.
+          Mi profesora de kastilyano es espanyola. Eya es de Salamanka, ama agora mora en Madrid.
           Mi profesora se yama Laura.
 
       - numero: 10
         teksto: |
-          Me yamo William i so de Ingletierra, ama agora moro en Madrid porke estudio kasteyano.
-          Estudio kasteyano en una eskola de kasteyano.
+          Me yamo William i so de Ingletierra, ama agora moro en Madrid porke estudio kastilyano.
+          Estudio kastilyano en una eskola de kasteyano.
           Mi profesora es de Salamanka.
           En Ingletierra yo estudio istoria en la Universita de Londra ama tambien lavoro.
           So kamarero en un bar.
           So muy djoven. Tengo 20 anyos.
           Mi madre es de Fransia i mi padre de Alemania.
           Yo avlo tres idiomas muy bien: inglez, aleman i fransez.
-          Tambien estudio kasteyano. Estudio kasteyano kon una profesora de kasteyano.
-          Mi profesora de kasteyano es de Salamanka. Se yama Laura.
+          Tambien estudio kastilyano. Estudio kasteyano kon una profesora de kasteyano.
+          Mi profesora de kastilyano es de Salamanka. Se yama Laura.
           Yo so djoven i mi profesora tambien es djoven.
 
  - titulo: ## 2. Komo se yama?
    pajinas:
       - numero: 11
         teksto: |
-          Mi profesora de kasteyano se yama Laura y es de Salamanka, ama agora mora en Madrid.
-          Mora en Madrid porke lavora en Madrid. Laura es profesora de kasteyano en una eskola de kasteyano.
+          Mi profesora de kastilyano se yama Laura y es de Salamanka, ama agora mora en Madrid.
+          Mora en Madrid porke lavora en Madrid. Laura es profesora de kastilyano en una eskola de kasteyano.
           Yo tambien moro en Madrid agora.
           Yo so inglez, ama agora moro en Madrid, en Espanya.
-          Yo moro en Espanya porke estudio kasteyano.
-          Yo so estudiente de kasteyano.
+          Yo moro en Espanya porke estudio kastilyano.
+          Yo so estudiente de kastilyano.
           Yo avlo inglez, fransez i aleman.
           Mi profesora tambien avla inglez muy bien, ama eya no es ingleza.
           Eya es espanyola.
@@ -127,19 +127,19 @@ chapters:
           Mi padre tien 54 anyos.
           Mi padre es viejo.
           Mi madre tambien es muy vieja. Mi madre tiene 46 anyos.
-          Laura, mi profesora de kasteyano, no es vieja. Eya es djoven.
+          Laura, mi profesora de kastilyano, no es vieja. Eya es djoven.
           Kuantos anyos tiene Laura? No se.
       - numero: 12
         teksto: |
-          En Londra yo estudio istoria en la Universita, ama agora moro en Madrid porke estudio kasteyano.
-          La eskola ande estudio kasteyano se yama "Ke guay" i es una eskola chika ama muy bonita.
+          En Londra yo estudio istoria en la Universita, ama agora moro en Madrid porke estudio kastilyano.
+          La eskola ande estudio kastilyano se yama "Ke guay" i es una eskola chika ama muy bonita.
 
-          Mi profesora de kasteyano tambien es bonita i avla inglez muy bien.
+          Mi profesora de kastilyano tambien es bonita i avla inglez muy bien.
           Yo avlo inglez muy bien porke so inglez, ama eya tambien avla ingles muy bien.
           Laura estudia ingles en la Universita.
           Laura avla inglez muy bien porke estudia inglez en la universita.
 
-          Si, Laura es profesora de kasteyano y estudiante de inglez.
+          Si, Laura es profesora de kastilyano y estudiante de inglez.
           Laura es muy intelijente. Laura es intelijente i bonita.
       - numero: 13
         teksto: |
@@ -169,10 +169,10 @@ chapters:
           No es verdad! Es una shaka! Mi ermana es muy yakishklia.
 
           Yo esto soltero i no tengo novia.
-          Mi profesora de kasteyano tiene novio? No se.
+          Mi profesora de kastilyano tiene novio? No se.
       - numero: 15
         teksto: |
-          Mi profesora de kasteyano se yama Laura.
+          Mi profesora de kastilyano se yama Laura.
           Laura es de Salamanka, ama avla inglez muy bien.
           Laura avla inglez muy bien porke estudia inglez en la Universita.
           Yo avlo inglez muy bien porke so inglez.
@@ -185,7 +185,7 @@ chapters:
           Mis dos sovrinos son muy chikos.
           Phillips tiene solo dos anyos i Bella tiene solo sesh mezes.
 
-          El marido de mi ermana se yama Martin i no avla kasteyano.
+          El marido de mi ermana se yama Martin i no avla kastilyano.
           Solo avla inglez ama avla inglez muy bien.
           Es normal: Martin avla inglez muy bien porke es inglez.
 
@@ -210,20 +210,20 @@ chapters:
    pajinas:
       - numero: 16
         teksto: |
-          La eskola ande estudio kasteyano se yama "Ke guay".
+          La eskola ande estudio kastilyano se yama "Ke guay".
           Ke signifika "Ke guay"? No se.
-          Deke se yama "Ke guay" la eskola de kasteyano? No se.
+          Deke se yama "Ke guay" la eskola de kastilyano? No se.
 
-          La eskola ande estudio kasteyano es chika.
-          Solo ay tres profesores de kasteyano: Pedro, Miguel i Laura.
+          La eskola ande estudio kastilyano es chika.
+          Solo ay tres profesores de kastilyano: Pedro, Miguel i Laura.
 
-          Laura es mi profesora de kasteyano.
+          Laura es mi profesora de kastilyano.
           Laura es intelijente, yakishklia i avla inglez muy bien.
           Estudii inglez en la Universita.
           Laura avla inglez muy bien porke estudia inglez en la universita.
 
-          Mi klasa de kasteyano tambien es chika.
-          En mi klasa de kasteyano solo ay 5 estudiantes:
+          Mi klasa de kastilyano tambien es chika.
+          En mi klasa de kastilyano solo ay 5 estudiantes:
 
           Yoko, ke es una manseva japonesa, de Tokio, i tiene 20 anyos, komo yo.
           Yoko es alta, morena, tiene kaveyos largos i no avla muncho.
@@ -251,38 +251,38 @@ chapters:
 
           Edoardo, ke es un mansevo italiano, de Roma.
           Edoardo es djoven (tiene 21 anyos), alto, blondo i muy yakishikli, komo mi ermano.
-          Edoardo avla muy bien italiano (porke es italiano) i kasteyano (porke es italiano i todos los italianos avlan kasteyano muy bien).
+          Edoardo avla muy bien italiano (porke es italiano) i kastilyano (porke es italiano i todos los italianos avlan kasteyano muy bien).
           Edoardo tambien es intelijente, elegante i muy divertiente.
           No me plaze Edoardo.
           Me aborresko a Edoardo.
 
           Yo me yamo William i so inglez, de Newcastle.
           So un poko feo i timido, ama djoven i divertiente.
-          Avlo inglez, fransez i aleman muy bien i agora estudio kasteyano en Madrid.
+          Avlo inglez, fransez i aleman muy bien i agora estudio kastilyano en Madrid.
 
           Esto soltero i no tengo novia.
 
       - numero: 17
         teksto: |
-          Yo vo a klasa de kasteyano los lunes, los martes i los mierkoles.
+          Yo vo a klasa de kastilyano los lunes, los martes i los mierkoles.
           Los djueves o los viernes vo a la biblioteka para estudiar.
-          En la eskola de kasteyano ay una biblioteka chika.
-          La eskola de kasteyano es chika i la biblioteka tambien es chika.
+          En la eskola de kastilyano ay una biblioteka chika.
+          La eskola de kastilyano es chika i la biblioteka tambien es chika.
           No ay munchos livros en la biblioteka.
           Los livros de la biblioteka son viejos.
-          Los livros de kasteyano ke ay en la biblioteka de la eskola son muy viejos.
+          Los livros de kastilyano ke ay en la biblioteka de la eskola son muy viejos.
           Ay pokos livros i son muy viejos.
           Los livros son sikidjis.
-          Los livros ke ay en la biblioteka de kasteyano son viejos i sikidjis, komo mis padres.
+          Los livros ke ay en la biblioteka de kastilyano son viejos i sikidjis, komo mis padres.
           Mis padres tambien son viejos i sikidjis.
 
-          La klasa de kasteyano empiesa a las mueve (9) i termina a las dodje (12).
+          La klasa de kastilyano empiesa a las mueve (9) i termina a las dodje (12).
 
       - numero: 18
         teksto: |
-          La klasa de kasteyano es de mueve a dodje: tres oras.
-          Estudio kasteyano tres oras los lunes o los mierkoles.
-          La klasa de kasteyano es a las mueve de la manyana.
+          La klasa de kastilyano es de mueve a dodje: tres oras.
+          Estudio kastilyano tres oras los lunes o los mierkoles.
+          La klasa de kastilyano es a las mueve de la manyana.
           Normalmente yo yego a klasa a las mueve manko sinko de la manyana.
           Yo so inglez.
 
@@ -309,10 +309,10 @@ chapters:
 
       - numero: 19
         teksto: |
-          Problema: Laura, la profesora de kasteyano, akorruto yega tadre a klasa.
-          Eya es profesora de kasteyano!
+          Problema: Laura, la profesora de kastilyano, akorruto yega tadre a klasa.
+          Eya es profesora de kastilyano!
           Laura no puede yegar tadre!
-          No puedes yegar tadre a klasa de kasteyano kuando to sos la profesora de kasteyano, no?
+          No puedes yegar tadre a klasa de kastilyano kuando to sos la profesora de kasteyano, no?
 
           Deke yega tadre a klasa Laura? No se.
           Laura yega tadre a klasa porke es espanyola? No se.
@@ -363,19 +363,19 @@ chapters:
           En Newcastle yo vo al sinema i tambien vo al teatro. Yo avlo ingles.
           En Madrid no vo al sinema ni vo al teatro.
           Yo no vo ni al sinema ni al teatro.
-          Yo no avlo kasteyano.
-          Yo no vo ni al sinema ni al teatro en Madrid porke no avlo kasteyano.
-          Avlo un poko de kasteyano, ama no entiendo muncho.
+          Yo no avlo kastilyano.
+          Yo no vo ni al sinema ni al teatro en Madrid porke no avlo kastilyano.
+          Avlo un poko de kastilyano, ama no entiendo muncho.
 
       - numero: 24
         teksto: |
-          Yo no avlo kasteyano muy bien.
+          Yo no avlo kastilyano muy bien.
           Vo a klasa tres dias a la semana.
-          Entiendo a mi profesora. Mi profesora avla kasteyano muy bien.
-          Yo entiendo a Laura (mi profesora) kuando avla kasteyano.
+          Entiendo a mi profesora. Mi profesora avla kastilyano muy bien.
+          Yo entiendo a Laura (mi profesora) kuando avla kastilyano.
           Ma no entiendo la televizyon
 
- - titulo: 5. Deke estudias kasteyano?
+ - titulo: 5. Deke estudias kastilyano?
  - titulo: 6. Ke te plaze?
  - titulo: 7. Puedes repetir, por favor?
  - titulo: 8. Ke dia es oy?
@@ -389,12 +389,12 @@ chapters:
         teksto: |
           Oy es sabado.
           Amanyana es alhad.
-          Oy no ay klasa de kasteyano.
+          Oy no ay klasa de kastilyano.
           Ni amanyana.
           Es fin de semana.
           Para mi, el fin de la semana empesa el viernes por la tadre i eskapa alhad por la noche.
 
-          En fin de semana no ay klasa de kasteyano.
+          En fin de semana no ay klasa de kastilyano.
           ...
 
       - numero: 75
