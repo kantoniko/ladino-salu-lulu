@@ -1,5 +1,5 @@
 publish: 6
-titulo: Salú Lulú
+titolo: Salú Lulú
 path: salu-lulu
 teksto: |
   Salú Lulú es un livro para empesantes (elevos prinsipientes) de Ladino (Djudeo-Espanyol) ke tienen un nivel A1 en los niveles de <a href="https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages">CEFR</a>.
@@ -10,7 +10,7 @@ footer: |
   Reservados todos los derechos.
 
 chapters:
- - titulo: 1. Komo te yamas?
+ - titolo: 1. Komo te yamas?
    pajinas:
       - numero: 1
         teksto: |
@@ -109,7 +109,7 @@ chapters:
           Mi profesora de kastilyano es de Salamanka. Se yama Laura.
           Yo so djoven i mi profesora tambien es djoven.
 
- - titulo: ## 2. Komo se yama?
+ - titolo: ## 2. Komo se yama?
    pajinas:
       - numero: 11
         teksto: |
@@ -206,7 +206,7 @@ chapters:
           Anna tambien dize ke Robert es muy yakishikli ama ke yo so muy feo.
           Serena no es simpatika i su ermana tambien no es simpatika.
           Ni Anna ni su ermana Serena son muy simpatikas.
- - titulo: 3. Ke signifika?
+ - titolo: 3. Ke signifika?
    pajinas:
       - numero: 16
         teksto: |
@@ -331,7 +331,7 @@ chapters:
           Laura mora en un apartamento ke esta leshos de la eskola.
           Yo moro en un apartamento ke esta serka de las eskola kon tres amigos.
 
- - titulo: 4. Ande moras?
+ - titolo: 4. Ande moras?
    pajinas:
       - numero: 21
         teksto: |
@@ -375,15 +375,15 @@ chapters:
           Yo entiendo a Laura (mi profesora) kuando avla kastilyano.
           Ma no entiendo la televizyon
 
- - titulo: 5. Deke estudias kastilyano?
- - titulo: 6. Ke te plaze?
- - titulo: 7. Puedes repetir, por favor?
- - titulo: 8. Ke dia es oy?
- - titulo: 9. A ke ora?
- - titulo: 10. Ken es?
- - titulo: 11. Hola, Lola?
- - titulo: 12. Ke te pasa?
- - titulo: 13. Ke azes el fin de semana?
+ - titolo: 5. Deke estudias kastilyano?
+ - titolo: 6. Ke te plaze?
+ - titolo: 7. Puedes repetir, por favor?
+ - titolo: 8. Ke dia es oy?
+ - titolo: 9. A ke ora?
+ - titolo: 10. Ken es?
+ - titolo: 11. Hola, Lola?
+ - titolo: 12. Ke te pasa?
+ - titolo: 13. Ke azes el fin de semana?
    pajinas:
       - numero: 71
         teksto: |
