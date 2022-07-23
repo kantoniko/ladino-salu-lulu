@@ -3,7 +3,7 @@ titolo: Salú Lulú
 path: salu-lulu
 teksto: |
   Salú Lulú es un livro para empesantes (elevos prinsipientes) de Ladino (Djudeo-Espanyol) ke tienen un nivel A1 en los niveles de <a href="https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages">CEFR</a>.
-  Juan Fernandez el patron de <a href="https://1001reasonstolearnspanish.com/">1001 razones pare ambezarse kastilyano</a> eskrivo la version orijinal de este livro en kasteyano. Puedesh merkar lo aki: <a href="https://1001reasonstolearnspanish.com/book/hola-lola/">Hola Lola</a>.
+  Juan Fernandez el patron de <a href="https://1001reasonstolearnspanish.com/">1001 razones pare ambezarse kastilyano</a> eskrivo la version orijinal de este livro en kastilyano. Puedesh merkar lo aki: <a href="https://1001reasonstolearnspanish.com/book/hola-lola/">Hola Lola</a>.
   La traduksion al ladino es de Gabor Szabo kon muncha ayuda de Miriam Sherman.
 footer: |
   Este livro es una traduksion djudeo-espanyola del livro orijinal de <a href="https://1001reasonstolearnspanish.com/book/hola-lola/">Hola Lola</a> de <a href="https://1001reasonstolearnspanish.com/">Juan Fernandez</a>.
@@ -79,7 +79,7 @@ chapters:
           Me yamo William i so inglez de Newcastle.
           Estudio istoria en la Universita de Londra ama agora moro en Espanya.
           Moro en Espanya, en Madrid porke estudio kastilyano.
-          Estudio kastilyano en una eskola de kasteyano.
+          Estudio kastilyano en una eskola de kastilyano.
           En Ingletierra so estudiante de istoria i tambien lavoro en un bar.
           So garson en un bar de Londra.
           Yo so inglez, ama mi madre es franseza i mi padre aleman.
@@ -90,7 +90,7 @@ chapters:
           So de Newcastle, estudio istoria en Londra ama agora moro en Madrid.
           Yo so djoven: tengo 20 anyos.
           No avlo kastilyano muy bien ama avlo inglez, fransez i aleman muy bien. Mi padre es aleman i mi madre es franseza.
-          So de Ingletierra, ama agora moro en Madrid porke estudio kastilyano en una eskola de kasteyano.
+          So de Ingletierra, ama agora moro en Madrid porke estudio kastilyano en una eskola de kastilyano.
           Es una eskola chika.
           Mi profesora de kastilyano es espanyola. Eya es de Salamanka, ama agora mora en Madrid.
           Mi profesora se yama Laura.
@@ -98,23 +98,23 @@ chapters:
       - numero: 10
         teksto: |
           Me yamo William i so de Ingletierra, ama agora moro en Madrid porke estudio kastilyano.
-          Estudio kastilyano en una eskola de kasteyano.
+          Estudio kastilyano en una eskola de kastilyano.
           Mi profesora es de Salamanka.
           En Ingletierra yo estudio istoria en la Universita de Londra ama tambien lavoro.
           So garson en un bar.
           So muy djoven. Tengo 20 anyos.
           Mi madre es de Fransia i mi padre de Alemania.
           Yo avlo tres idiomas muy bien: inglez, aleman i fransez.
-          Tambien estudio kastilyano. Estudio kasteyano kon una profesora de kasteyano.
+          Tambien estudio kastilyano. Estudio kastilyano kon una profesora de kastilyano.
           Mi profesora de kastilyano es de Salamanka. Se yama Laura.
           Yo so djoven i mi profesora tambien es djoven.
 
- - titolo: ## 2. Komo se yama?
+ - titolo: 2. Komo se yama?
    pajinas:
       - numero: 11
         teksto: |
           Mi profesora de kastilyano se yama Laura y es de Salamanka, ama agora mora en Madrid.
-          Mora en Madrid porke lavora en Madrid. Laura es profesora de kastilyano en una eskola de kasteyano.
+          Mora en Madrid porke lavora en Madrid. Laura es profesora de kastilyano en una eskola de kastilyano.
           Yo tambien moro en Madrid agora.
           Yo so inglez, ama agora moro en Madrid, en Espanya.
           Yo moro en Espanya porke estudio kastilyano.
@@ -129,6 +129,7 @@ chapters:
           Mi madre tambien es muy vieja. Mi madre tiene 46 anyos.
           Laura, mi profesora de kastilyano, no es vieja. Eya es djoven.
           Kuantos anyos tiene Laura? No se.
+
       - numero: 12
         teksto: |
           En Londra yo estudio istoria en la Universita, ama agora moro en Madrid porke estudio kastilyano.
@@ -141,6 +142,7 @@ chapters:
 
           Si, Laura es profesora de kastilyano y estudiante de inglez.
           Laura es muy intelijente. Laura es intelijente i bonita.
+
       - numero: 13
         teksto: |
           Yo me yamo William i no so muy yakishikli.
@@ -149,13 +151,14 @@ chapters:
 
           Mi ermano dize ke yo so feo.
           Mi ermano se yama Robert. Robert es alto, delgado i tiene los ojos azules komo mi madre.
-          Mi madres tambien es alta, delgada i tiene los ojos azules.
+          Mi madre tambien es alta, delgada i tiene los ojos azules.
 
           Mi madre es muy yakishklia i mi ermano tambien es muy yakishikli.
           Mi madre i mi ermano son yakishiklis.
 
           Mi padre es feo i yo tambien so feo. Mi padre i yo somos muy feos.
-          Mi ermano se yama Robert i es muy djoven. Tiene 23 anyos.
+          Mi ermano se yama Robert i es muy djoven. Tiene vente i tres (23) anyos.
+
       - numero: 14
         teksto: |
           Yo tengo dos ermanos: un ermano i una ermana.
@@ -169,7 +172,10 @@ chapters:
           No es verdad! Es una shaka! Mi ermana es muy yakishklia.
 
           Yo esto soltero i no tengo novia.
+
+          Mi profesora de kastilyano esta kazada o soltera? No se.
           Mi profesora de kastilyano tiene novio? No se.
+
       - numero: 15
         teksto: |
           Mi profesora de kastilyano se yama Laura.
@@ -251,7 +257,7 @@ chapters:
 
           Edoardo, ke es un mansevo italiano, de Roma.
           Edoardo es djoven (tiene 21 anyos), alto, blondo i muy yakishikli, komo mi ermano.
-          Edoardo avla muy bien italiano (porke es italiano) i kastilyano (porke es italiano i todos los italianos avlan kasteyano muy bien).
+          Edoardo avla muy bien italiano (porke es italiano) i kastilyano (porke es italiano i todos los italianos avlan kastilyano muy bien).
           Edoardo tambien es intelijente, elegante i muy divertiente.
           No me plaze Edoardo.
           Me aborresko a Edoardo.
@@ -312,7 +318,7 @@ chapters:
           Problema: Laura, la profesora de kastilyano, akorruto yega tadre a klasa.
           Eya es profesora de kastilyano!
           Laura no puede yegar tadre!
-          No puedes yegar tadre a klasa de kastilyano kuando to sos la profesora de kasteyano, no?
+          No puedes yegar tadre a klasa de kastilyano kuando to sos la profesora de kastilyano, no?
 
           Deke yega tadre a klasa Laura? No se.
           Laura yega tadre a klasa porke es espanyola? No se.
