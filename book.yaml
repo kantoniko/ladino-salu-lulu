@@ -1,5 +1,5 @@
 publish: 13
-second pass finished: 17
+second pass finished: 23
 titolo: Salú Lulú
 path: salu-lulu
 teksto: |
@@ -89,7 +89,7 @@ chapters:
         teksto: |
           Me yamo William i so de Ingletierra.
           So de Newcastle, estudio istoria en Londra ama agora moro en Madrid.
-          Yo so djoven: tengo 20 anyos.
+          Yo so djoven: tengo vente (20) anyos.
           No avlo kastilyano muy bien ama avlo inglez, fransez i aleman muy bien. Mi padre es aleman i mi madre es franseza.
           So de Ingletierra, ama agora moro en Madrid porke estudio kastilyano en una eskola de kastilyano.
           Es una eskola chika.
@@ -103,7 +103,7 @@ chapters:
           Mi profesora es de Salamanka.
           En Ingletierra yo estudio istoria en la Universita de Londra ama tambien lavoro.
           So garson en un bar.
-          So muy djoven. Tengo 20 anyos.
+          So muy djoven. Tengo vente (20) anyos.
           Mi madre es de Fransia i mi padre de Alemania.
           Yo avlo tres idiomas muy bien: inglez, aleman i fransez.
           Tambien estudio kastilyano. Estudio kastilyano kon una profesora de kastilyano.
@@ -289,7 +289,7 @@ chapters:
       - numero: 18
         teksto: |
           La klasa de kastilyano es de mueve a dodje: tres oras.
-          Estudio kastilyano tres oras los lunes o los mierkoles.
+          Estudio kastilyano tres oras los lunes, los martes, i los mierkoles.
           La klasa de kastilyano es a las mueve de la manyana.
           Normalmente yo yego a klasa a las mueve manko sinko de la manyana.
           Yo so inglez.
@@ -318,18 +318,18 @@ chapters:
       - numero: 19
         teksto: |
           Problema: Laura, la profesora de kastilyano, akorruto yega tadre a klasa.
-          Eya es profesora de kastilyano!
+          Eya es la profesora de kastilyano!
           Laura no puede yegar tadre!
           No puedes yegar tadre a klasa de kastilyano kuando to sos la profesora de kastilyano, no?
 
           Deke yega tadre a klasa Laura? No se.
           Laura yega tadre a klasa porke es espanyola? No se.
-          Laura yega tadre a klasa porke es paresoza? No se.
+          Laura yega tadre a klasa porke es peresoza? No se.
           Laura yega tadre a klasa porke mora muy leshos de la eskola? No se.
 
       - numero: 20
         teksto: |
-          Eya va a la eskola en tren. Toma kuarenta i sinko puntos.
+          Laura va a la eskola en tren. Toma kuarenta i sinko puntos.
           Yo vo a la eskola a pie. Toma diez puntos.
           Yo moro muy serka de la eskola. Laura mora muy leshos.
 
@@ -337,13 +337,16 @@ chapters:
           Mi maale se yama...
           Komo se yama mi maale? Komo se yama el maale de Madrid ande moro? No se.
           Laura mora en un apartamento ke esta leshos de la eskola.
-          Yo moro en un apartamento ke esta serka de las eskola kon tres amigos.
+          Yo moro en un apartamento ke esta serka de las eskola kon tres amigos: dos mansevikos i una mansevika.
+          Komo se yama el maale and mora Laura? No se.
+          Kon ken mora Laura? No se.
 
  - titolo: 4. Ande moras?
    pajinas:
       - numero: 21
         teksto: |
           Yo moro en el sentro de Madrid.
+
           Moro en un maale viejo ke esta en el sentro de Madrid.
           Madrid esta en el sentro de Espanya i moro en un apartamento ke esta en el sentro de Madrid.
 
