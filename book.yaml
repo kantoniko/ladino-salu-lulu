@@ -1,4 +1,5 @@
 publish: 13
+first review finished: 23
 second pass finished: 23
 titolo: Salú Lulú
 path: salu-lulu
@@ -196,7 +197,7 @@ chapters:
           Solo avla inglez ama avla inglez muy bien.
           Es normal: Martin avla inglez muy bien porke es inglez.
 
-          Mi ermano se yama Robert i tiene 23 anyos.
+          Mi ermano se yama Robert i tiene vente i tres (23) anyos.
           Robert ni estudia ni lavora.
           Mi padre dize ke Robert es muy peresozo.
           Mi madre dize ke Robert es muy grasiozo.
@@ -384,30 +385,24 @@ chapters:
           Vo a klasa tres dias a la semana.
           Entiendo a mi profesora. Mi profesora avla kastilyano muy bien.
           Yo entiendo a Laura (mi profesora) kuando avla kastilyano.
-          Ma no entiendo la televizyon
+          Ma no entiendo la televizyon, ni los filmos, ni la radio, ni el teatro...
+          Laura avla avagar. Yo entiendo a Laura.
+          Los jurnalistas de la televizyon i de la radio avlan muy rapido.
+          Kuando la djente avla muy rapido, yo no entiendo.
 
- - titolo: 5. Deke estudias kastilyano?
- - titolo: 6. Ke te plaze?
- - titolo: 7. Puedes repetir, por favor?
- - titolo: 8. Ke dia es oy?
- - titolo: 9. A ke ora?
- - titolo: 10. Ken es?
- - titolo: 11. Hola, Lola?
- - titolo: 12. Ke te pasa?
- - titolo: 13. Ke azes el fin de semana?
-   pajinas:
-      - numero: 71
+      - numero: 25
         teksto: |
-          Oy es sabado.
-          Amanyana es alhad.
-          Oy no ay klasa de kastilyano.
-          Ni amanyana.
-          Es fin de semana.
-          Para mi, el fin de la semana empesa el viernes por la tadre i eskapa alhad por la noche.
+          Kero meldar en kastilyano.
+          Kero meldar en kastilyano porke kero ambezarme kastilyano.
+          En mi maale ay munchos bares.
+          Ay tambien munchos kafeterias i munchos restaurantes.
+          Ma no ay munchos livrerias.
+          Kero ir a una livreria para merkar un livro.
+          Kero merkar un livro de kastilyano porke los livros ke ay en la biblioteka
+          de la eskola son muy enfasiozos (orijinal: aburridos, boring). Son muy viejos is enfasiozos.
+          Ande ay una livreria? No se.
+          Amanyana vo a demandar a mi profesora de kastilyano anda ay una livreria.
+          Kero meldar en kastilyano.
+          Kero meldar en kastilyano porke kero ambezarme kastilyano.
 
-          En fin de semana no ay klasa de kastilyano.
-          ...
 
-      - numero: 75
-        teksto: |
-          Ke pais tan toaf!
