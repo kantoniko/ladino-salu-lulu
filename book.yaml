@@ -1,4 +1,4 @@
-publish: 21
+publish: 22
 titolo: Salú Lulú
 path: salu-lulu
 teksto: |
@@ -359,9 +359,9 @@ chapters:
           Tambien moro serka de la Plaza Mayor.
           La Plaza Mayor es tambien una plasa.
           En Madrid ay munchas plasas.
-          En el sentro de la Plaza Mayor ay un estatua muy grande.
-          Es la estatua de un ombre ke va a kavayo.
-          Ken es el ombre ke va a kavayo? No se.
+          En el sentro de la Plaza Mayor ay una estatua muy grande.
+          Es la estatua de un ombre ke va kon kavayo.
+          Ken es el ombre ke va kon kavayo? No se.
 
       - numero: 23
         teksto: |
