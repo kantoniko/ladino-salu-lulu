@@ -2,7 +2,7 @@ publish: 25
 sent to Ladinokomunita: 26.1
 checked by Miriam: 32
 sent to Miriam: 32
-finished by Gabor: 33
+finished by Gabor: 34
 
 titolo: Salú Lulú
 path: salu-lulu
@@ -738,7 +738,7 @@ chapters:
           Yo demando a Laura: "Laura, bailas flamenko? Tu bailas flamenko?".
           Eya dize: "No, a mi no me plaze el flamenko!".
 
-          Laura no baila flamenko. Rosa i Lola tambien no bailan flamenko. Fernando i Julio tambien no ...
+          Laura no baila flamenko. Rosa i Lulu tambien no bailan flamenko. Fernando i Julio tambien no ...
 
           Nadie baila flamenko en Espanya?
           Ken baila flamenko en Espanya? No se.
@@ -749,7 +749,28 @@ chapters:
 
       - numero: 34
         teksto: |
-          Me plaze avlar kastilyano kon Laura, mi profesora de kastilyano, ama eya normalmente avla en inglez kon mozotros en klasa.
+          Me plaze avlar kastilyano kon Laura, mi profesora de kastilyano, ama eya normalmente avla en inglez kon mozotros en la klasa.
+
+          Me plaze avlar kastilyano kon Rosa, la garsona de bar ke ay serka de mi apartamento, ama eya normalmente no tiene tiempo de avlar kon mi.
+          Esta siempre muy okupada.
+
+          Fernando i Julio, mis kompanyeros de apartamento, tambien no tienen tiempo de avlar kon mi. Estan siempre muy okupados kon sus estudios.
+
+          Tambien me plaze avlar kastilyano kon Lulu.
+
+          Lulu es una manseva espanyola. Eya es de una sivdad se yama Lugo.
+          Yo no se ande esta Lugo. Yo no se komo es Lugo. Lulu dize ke Lugo es una sivdad muy bonita.
+          Yo: "Ke te plaze mas, Lulu? Lugo o Madrid?"
+          Lulu: "Me plaze Lugo porke en Lugo mora mi famiya, am es una sivdad chika, trankila i a mi me plazen las sivdades grandes i bruidosas komo Madrid.
+            Madrid es una sivdad muy divertida. Ay munchos sinemas, teatros, muzeos..."
+          Yo: "Si, ama yo no puedo ir al sinema, ni al teatro porke no tengo muncho paras. Madid es una sivdad muy kara."
+          Lulu: "Tienes razon. Madrid es una sivdad muy kara."
+          Yo: "Madrid es una sivdad bruidosa i kara. Madrid es komo Serena, la amiga de mi ermano: bruidos i kara."
+
+          Lulu se rie, ama no so porke se rie.
+
+          Lulu es una manseva muy intelijente, it laborioza: por la demanyana estudia en la universita i por la noche lavora en un restaurante.
+          El fin de semana, a Lulu le plaze ir al teatrom, al sinema i tambien le plaze meldar.
 
       - numero: 35
         teksto: |
@@ -859,7 +880,7 @@ chapters:
           E: "Ke te plaze mas, Roma o Tokyo?"
           Y: "Roma, por supuesto"
 
-          A mi me plaze Yoko. Me plaze Rosa, Lola, Laura i tambien me plaze Yoko.
+          A mi me plaze Yoko. Me plaze Rosa, Lulu, Laura i tambien me plaze Yoko.
           Ama ay un problema: kreo ke Yoko le plaze Edoardo.
 
           Yo so feo i Edoardo es ermozo.
