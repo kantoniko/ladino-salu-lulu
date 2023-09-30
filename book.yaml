@@ -731,7 +731,7 @@ chapters:
           Yo: "Si, me plaze salir. Me plaze  salir por la noche i tambien me plaze salir en el fin de semana, ama no tengo muncho paras.
             No puedo salir. Madrid es una sivdad muy kara."
           Laura: "Si, tienes razon. Madrid es una sivdad muy kara. Madrid es una sivdad ruidosa i kara. Ama tu estudias en Londra i Londra es mas kara ke Madrid, no?"
-          Yo: "Si, Madrid es menos kara ke Londre, ama yo lavoro en Londre. So garson en un bar.
+          Yo: "Si, Madrid es menos kara ke Londra, ama yo lavoro en Londra. So garson en un bar.
             Para mi, Madrid es una sivdad muy kara porke yo aki no lavoro i no tengo paras para salir."
           Me plaze avlar kastilyano kon Laura. Laura es simpatika, divertida, intelijente, i ermoza.
 
@@ -774,9 +774,22 @@ chapters:
 
       - numero: 35
         teksto: |
-          Oy en klasa de kastilyano avlo kon Marie.
-          Maria es franseza.
-          Maria es ermoza, morena, ni muy alta ni muy basha. Tiene la kabeza rizado i los ojos marones.
+          Oy en la klasa de kastilyano avlo kon Marie.
+          Marie es franseza.
+          Marie es ermoza, morena, ni muy alta ni muy basha. Tiene la kabeza rizado i los ojos marones.
+
+          Marie estudia indjeneria aeronautika en la universita de Paris.
+          A Marie le plazen muncho las matematikas.
+          Es simpatika, ama un poko serioza.
+          Kuando avlo kon Marie, eya nunka sonrie.
+
+          Oy avlo kon Marie en la kalas de kastilyano.
+
+          Yo: "Sos de Paris, Marie?"
+          Marie: "Si, so de Paris."
+          Yo: "Ke te plaze mas, Paris o Madrid?"
+          Marie: "Paris. Paris es la mijora sivdad de Evropa i del mundo."
+          Yo: "No te plaze Madrid? No te plaze Barcelona? No te plaze Londra?"
 
       - numero: 36
         teksto: |
