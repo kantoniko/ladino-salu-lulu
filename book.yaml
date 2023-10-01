@@ -2,7 +2,7 @@ publish: 25
 sent to Ladinokomunita: 26.2
 checked by Miriam: 32
 sent to Miriam: 33
-finished by Gabor: 36
+finished by Gabor: 37
 
 titolo: Salú Lulú
 path: salu-lulu
@@ -831,7 +831,7 @@ chapters:
 
       - numero: 37
         teksto: |
-          Oy en klasa de kastilyano avlo kon Yoko.
+          Oy en la klasa de kastilyano avlo kon Yoko.
           Yoko es de Japon. Yoko es japoneza.
           Me plaze avlar kon Yoko. Yoko es muy interesante.
           Su famiya mora en Tokio.
@@ -841,8 +841,22 @@ chapters:
           Yo: "Te plaze Tokio, Yoko?"
           Yoko: "Si, me plaze muncho Tokio, ama me plaze mas Madrid."
           Yo: "Komo es Tokio?"
-          Yoko: "Tokio es una sivdad muy grande, bruidosa, i muy kara, ama me plaze. Es una sivdad muy divertida."
+          Yoko: "Tokio es una sivdad muy grande, muy bruidosa, i muy kara, ama me plaze. Es una sivdad muy divertida."
           Yo: "Madrid es tambien es grande, bruidosa, muy kara, i muy divertida."
+          Yoko: "Si, ama yo kreo ke Tokio es mas grande ke Madrid, mas bruidosa ke Madrid, mas kara ke Madrid i tan divertida komo Madrid."
+          Yo: "Ke te plaze mas, la komida espanyola o la komida japoneza?"
+          Yoko: "Me plaze muncho la komida japoneza, ama me enkanta la komida espanyola."
+          Yo: "Te plaze la payeya? Te plaze las tortriyas de patatas? Te plazen los churros?"
+          Yoko: "Me enkanta la payeya. Me enkanta la tortiya, i me plazen muncho los churros. Yo desayuno shokolata kon churros kada dia.
+            A mi me plaze muncho la komida espanyola."
+          Yo: "A mi me plaze komer en McDonald's."
+          Yoko: "Yo odio McDonald's."
+          Yo: "A mi me enkanta McDonald's. La komida es muy barata. Madrid es una sivdad kara, ama komer en McDonald's es barato."
+          Yoko: "Tu sos muy raro."
+
+          Porke piensa Yoko ke so raro? No se.
+
+          Tiene amigo Yoko? No se.
 
       - numero: 38
         teksto: |
