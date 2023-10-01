@@ -2,7 +2,7 @@ publish: 25
 sent to Ladinokomunita: 26.2
 checked by Miriam: 32
 sent to Miriam: 33
-finished by Gabor: 35
+finished by Gabor: 36
 
 titolo: Salú Lulú
 path: salu-lulu
@@ -815,10 +815,19 @@ chapters:
       - numero: 36
         teksto: |
           Ay un problema en mi kaza.
-          A mi me plaze muncho komer shokloata. Me plazen muncho las gayetas de shokolata.
+
+          A mi me plaze muncho komer shokolata. Me plazen muncho las gayetas de shokolata.
           Kuando vo al supermerkado, siempre merko gayetas de shokolata.
 
           Esto godro porke komo munchas gayetas de shokolata? No se.
+
+          Problema. En mi kaza ay un problema.
+
+          Este es el problema ke ay en mi kaza: Yo merko tres paketes de gayetas de shokolata el lunes.
+          Meto uno en mi dormitorio i los otros dos meto en el armario de la kuzina. Ama en mierkoles,
+          kuando vo a la kuzina, solo ay un pakete de gayetas de shokolata...
+
+          Ke pasa? Alguien se kome, mis gayetas de shokolata. Ken es ke kome mis gayetas de shokolata? No se.
 
       - numero: 37
         teksto: |
