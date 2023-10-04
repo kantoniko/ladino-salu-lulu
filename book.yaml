@@ -2,7 +2,7 @@ publish: 26
 sent to Ladinokomunita: 27.1
 checked by Miriam: 34
 sent to Miriam: 35
-finished by Gabor: 39
+finished by Gabor: 40
 
 titolo: Salú Lulú
 path: salu-lulu
@@ -929,7 +929,7 @@ chapters:
           Yo: "Ah, vale, perdona, Fernando! To avlas inglez?"
           Fernando: "Yo? Inglez? Si, bueno, no, en realidad no. Avlo un poko de inglez, ama no avlo muy bien. Por ke?"
           Yo: "Keres ambezarte inglez?"
-          Fernanod: "Si, klaro."
+          Fernando: "Si, klaro."
           Yo: "Keres ambezarte inglez kon mi? Yo puedo ser tu profesor de inglez!"
           Fernando: "Ke?"
           Yo: "Si keres ambezarte inglez, yo puedo ..."
@@ -941,6 +941,44 @@ chapters:
           Luego avlo kon Julio. Julio tambien estudia en la universita. Julio estudi derecho porke kere ser
           avogado. Su padre es avogado, su madre es avogada, sus ermanos son avogados i el kere ser avogado.
           Ke enfasiado!
+
+          Yo: "Julio, tu avlas inglez?"
+          Julio: "Ke?"
+          Yo: "Avlas inglez?"
+          Julio: "Ke?"
+
+          Esta sodro Julio? No se.
+
+          Avlas inglez?
+
+          Julio: "No esto sodro! Tu pronunsasion en kastilyano no es buena. To oigo, ama no te entiendo.
+            Kuando tu avlas en kastilyano, yo no te entiendo. Ama no esto sodro."
+          Yo: "Ah, vale, perdona, Julio! Tu avlas inglez?"
+          Julio: "Yo? Inglez? Si, bueno, no, en realidad no. Avlo un poko de inglez, ama no avlo muy bien. Por ke?"
+          Yo: "Keres ambezarte inglez?"
+          Julio: "Si, klaro."
+          Yo: "Keres ambezarte inglez kon mi? Yo puedo ser tu profesor de inglez."
+          Julio: "Ke?"
+          Yo: "Si keres avlar en inglez, yo puedo..."
+          Julio: "Si, si, si, si, si, yo avlo inglez, yo avlo inglez. No! Bueno, no en realidad no. Avlo un poko
+            de inglez, ama no muncho. No avlo muy bien"
+          Yo: "Keres ambezarte inglez?"
+          Julio: "Ke?"
+          Yo: "Keres ambezerte inglez kon mi? Yo puedo ser tu profesor de inglez."
+          Julio: "Si, si, si, si, si. Komo? Tu? Mi profesor? No!, No mersi, agora no puedo. No tengo tiempo.
+            Estudio muncho en la universita."
+
+          Fernando no avla inglez in Julio tambien no. Fernando no kere estudiar kon mi i Julio tambien no.
+          Nadie kere estudiar kon mi. Komo puedo ser profesor de inglez si no tengo estudiantes de inglez?
+          Komo puedo enkontrar estudiantes de inglez?
+
+          Lulu: "Puedes demandar a tus kompanyeros de tu klasa de kastilyano si keren estudiar inglez kon ti?"
+
+          Lulu tiene razon. Lulu siempre tiene razon. Lulu es intelijente. Lulu siempre tiene buenas ideas. Me plaze Lulu.
+
+          Ama ay un problema: Lulu es blonda i no baila flamenko. A mi me plazen las mansevas espanyoles de verdad,
+            las mansevas morenas, ke tienen kaveyos largos i bailan flamenko.
+
 
       - numero: 41
         teksto: |
