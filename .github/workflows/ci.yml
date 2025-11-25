@@ -10,7 +10,7 @@ jobs:
     name: Test code
     steps:
     - name: Checkout this repo
-      uses: actions/checkout@v5
+      uses: actions/checkout@v6
 
     - name: Install dependencies
       run: |
